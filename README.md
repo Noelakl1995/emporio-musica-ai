@@ -86,7 +86,7 @@ A execução das ferramentas é realizada pelo SDK do Gemini.
 Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/Noelakl1995/emporio-musica-ai.git
 cd emporio-musica-ai
 ```
 
